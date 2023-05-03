@@ -26,7 +26,8 @@ namespace menu
                     break;
 
                 case '4':
-
+                    int del = A / B;
+                    Console.WriteLine($"частное:{del}");
                     break;
             }
 
