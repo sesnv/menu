@@ -18,7 +18,8 @@ namespace menu
                     
                     break;
                 case '2':
-                    
+                    int sub = A - B;
+                    Console.WriteLine($"разность:{sub}");
                     break;
                 case '3':
                     
