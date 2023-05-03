@@ -15,7 +15,8 @@ namespace menu
             switch (choice)
             {
                 case '1':
-                    
+                    int sum = A + B;
+                    Console.WriteLine($"сумма:{sum}");
                     break;
                 case '2':
                     
@@ -25,7 +26,7 @@ namespace menu
                     break;
 
                 case '4':
-                    
+
                     break;
             }
 
