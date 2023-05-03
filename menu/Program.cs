@@ -23,7 +23,8 @@ namespace menu
                     Console.WriteLine($"разность:{sub}");
                     break;
                 case '3':
-                    
+                    int mul = A * B;
+                    Console.WriteLine($"произведение:{mul}");
                     break;
 
                 case '4':
